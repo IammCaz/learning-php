@@ -1,2 +1,2 @@
 <?php
-echo "Meu primeiro programa em PHP!";
+echo gettype("Meu primeiro programa em PHP!");
